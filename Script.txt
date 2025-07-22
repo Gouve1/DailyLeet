@@ -52,7 +52,9 @@ Semana 7:
 - Quarta: Clone Graph [C++] - Médio
 - Quinta: Course Schedule [Python] - Médio
 - Sexta: Flood Fill [Python] - Fácil
-- Sábado (Opcional): Is Graph Bipartite? [Python] - MédioSemana 8:
+- Sábado (Opcional): Is Graph Bipartite? [Python] - Médio
+
+Semana 8:
 - Segunda: House Robber [Python] - Médio
 - Terça: Maximum Subarray [Python] - Fácil
 - Quarta: Longest Increasing Subsequence [C++] - Médio
