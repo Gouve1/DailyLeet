@@ -1,0 +1,61 @@
+Plano LeetCode - Exercícios até 45 minutos (8 Semanas)
+Semana 1:
+- Segunda: Two Sum [Python] - Fácil
+- Terça: Reverse String [Python] - Fácil
+- Quarta: Valid Palindrome [C++] - Fácil
+- Quinta: Remove Duplicates from Sorted Array [Python] - Fácil
+- Sexta: Merge Two Sorted Lists [À escolha] - Fácil
+- Sábado (Opcional): Best Time to Buy and Sell Stock [Python] - Médio
+
+Semana 2:
+- Segunda: Valid Parentheses [Python] - Fácil
+- Terça: Min Stack [Python] - Fácil
+- Quarta: Implement Queue using Stacks [C++] - Fácil
+- Quinta: Intersection of Two Linked Lists [Python] - Fácil
+- Sexta: Palindrome Linked List [Python] - Médio
+- Sábado (Opcional): Design Circular Queue [Python] - Médio
+
+Semana 3:
+- Segunda: Climbing Stairs [Python] - Fácil
+- Terça: Subsets [Python] - Médio
+- Quarta: Permutations [C++] - Médio
+- Quinta: Generate Parentheses [Python] - Médio
+- Sexta: Letter Combinations of Phone Number [Python] - Médio
+- Sábado (Opcional): Power Set [Python] - Médio
+
+Semana 4:
+- Segunda: Majority Element [Python] - Fácil
+- Terça: Valid Anagram [Python] - Fácil- Quarta: Two Sum com HashMap [C++] - Fácil
+- Quinta: Group Anagrams [Python] - Médio
+- Sexta: Longest Substring Without Repeat [Python] - Médio
+- Sábado (Opcional): Contains Duplicate [Python] - Fácil
+
+Semana 5:
+- Segunda: Binary Search [Python] - Fácil
+- Terça: Search Insert Position [Python] - Fácil
+- Quarta: First Bad Version [C++] - Fácil
+- Quinta: Find Peak Element [Python] - Médio
+- Sexta: Kth Largest Element in Array [Python] - Médio
+- Sábado (Opcional): Search in Rotated Sorted Array II [Python] - Médio
+
+Semana 6:
+- Segunda: Invert Binary Tree [Python] - Fácil
+- Terça: Maximum Depth of Binary Tree [Python] - Fácil
+- Quarta: Same Tree [C++] - Fácil
+- Quinta: Symmetric Tree [Python] - Fácil
+- Sexta: Binary Tree Level Order Traversal [Python] - Médio
+- Sábado (Opcional): Diameter of Binary Tree [Python] - Médio
+
+Semana 7:
+- Segunda: Number of Islands [Python] - Médio
+- Terça: Rotting Oranges [Python] - Médio
+- Quarta: Clone Graph [C++] - Médio
+- Quinta: Course Schedule [Python] - Médio
+- Sexta: Flood Fill [Python] - Fácil
+- Sábado (Opcional): Is Graph Bipartite? [Python] - MédioSemana 8:
+- Segunda: House Robber [Python] - Médio
+- Terça: Maximum Subarray [Python] - Fácil
+- Quarta: Longest Increasing Subsequence [C++] - Médio
+- Quinta: Coin Change [Python] - Médio
+- Sexta: Fibonacci (Memo/Tab) [Python] - Fácil
+- Sábado (Opcional): Decode Ways [Python] - Médio
