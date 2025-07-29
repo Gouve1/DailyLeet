@@ -7,7 +7,7 @@ def twoSum(numarr,target):
         for k in range(i+1,len(numarr)):
             if numarr[i] + numarr[k] == target:
                 res.append(i)
-                res.append(k)
+                res.append(k) 
                 
     return res
 
