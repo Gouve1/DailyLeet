@@ -1,5 +1,6 @@
 
-
+s11 = []
+print (len(s11))
 s = ['o','l','a']
 s1 = "Olá, meu nome é Pedro "
 s2=s1.replace(',','')

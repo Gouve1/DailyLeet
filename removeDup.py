@@ -2,7 +2,7 @@ def remove_duplicate(nums):
     k = len(nums)
     index = 0
     for j in range(1, k):
-        if(nums[index]!=nums[j]):
+        if nums[index]!=nums[j]:
             index += 1   
             nums[index] = nums[j]
         
